@@ -1,0 +1,1 @@
+Stawki dla działalności gospodarczej na 2026 r.: składki społeczne (pełny ZUS — podstawa 5 652 zł; preferencyjny — podstawa 1 441,80 zł; ulga na start), składka zdrowotna dla skali, liniowego i ryczałtu oraz progi i stawki PIT. Gdy zmienią się przepisy, popraw wartości domyślne tutaj.
